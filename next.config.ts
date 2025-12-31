@@ -14,7 +14,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "nepal-pest-control.nepdora.baliyoventures.com",
+        hostname: "nepal-pest-control-pokhara.nepdora.baliyoventures.com",
       },
     ],
   },
