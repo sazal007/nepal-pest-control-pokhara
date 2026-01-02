@@ -65,7 +65,7 @@ export const MissionVisionSection = () => {
             transition={{ duration: 0.7, ease: "easeOut" }}
           >
             <img
-              src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80"
+              src="https://cpcindia.in/wp-content/uploads/2016/06/professional-pest-control-services-in-delhi-min-840x562.png"
               alt="Pokhara Pest Control Mission - Team Collaboration"
               className="w-full h-full object-cover"
             />
@@ -82,7 +82,7 @@ export const MissionVisionSection = () => {
             transition={{ duration: 0.7, ease: "easeOut" }}
           >
             <img
-              src="https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&auto=format&fit=crop&w=1674&q=80"
+              src="https://www.empactgroup.co.za/wp-content/uploads/2025/07/medical-staff-wearing-protective-clothing-disinfec-2025-03-18-17-15-48-utc-scaled.jpg"
               alt="Pokhara Pest Control Vision - Local Excellence"
               className="w-full h-full object-cover"
             />
