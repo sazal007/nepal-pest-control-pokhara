@@ -2,7 +2,7 @@
 
 import { HomeHero } from "@/components/home/HomeHero";
 import { AboutSection } from "@/components/home/AboutSection";
-// import { ServicesSection } from "@/components/home/ServicesSection";
+import { ServicesSection } from "@/components/home/ServicesSection";
 import { TestimonialsSection } from "@/components/home/TestimonialsSection";
 import { BlogSection } from "@/components/home/BlogSection";
 import { ProcessSection } from "@/components/home/ProcessSection";
@@ -30,10 +30,10 @@ export default function HomeView() {
     <>
       <HomeHero />
       <AboutSection />
-      <ProcessSection />
+      {/* <ProcessSection /> */}
       <WhoAreWe />
       {sortedPricing.length > 0 && <PricingPlans plans={sortedPricing} />}
-      {/* <ServicesSection /> */}
+      <ServicesSection />
       <ScheduleConsultation />
       <TestimonialsSection />
       <TeamGridSection />
