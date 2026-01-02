@@ -24,6 +24,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "www.empactgroup.co.za",
       },
+      {
+        protocol: "https",
+        hostname: "environet.com.ph",
+      },
     ],
   },
   // ISR is configured per-page using the `revalidate` export

@@ -50,9 +50,9 @@ export const PhilosophySection = () => {
             <div className="max-w-3xl pr-4">
               <p className="text-lg md:text-xl text-gray-900 mb-6 leading-relaxed font-medium">
                 At Pokhara Pest Control, we believe that a safe, pest-free
-                environment is key to peace of mind and operational success. Serving
-                Pokhara with dedication, we combine modern technology with expert guidance to protect your
-                home and business.
+                environment is key to peace of mind and operational success.
+                Serving Pokhara with dedication, we combine modern technology
+                with expert guidance to protect your home and business.
               </p>
               <p className="text-sm md:text-base text-gray-500 mb-10 leading-relaxed">
                 Our approach uses data-driven insights, tailored strategies, and
@@ -113,7 +113,7 @@ export const PhilosophySection = () => {
             <div className="relative w-full max-w-[380px] mt-2 lg:mt-0">
               <div className="aspect-4/5 w-full rounded-3xl overflow-hidden shadow-2xl relative">
                 <img
-                  src="/team-members/Yagya-Raj-Bogati.png"
+                  src="https://environet.com.ph/wp-content/uploads/2024/11/Why-Pest-Control-Services-Are-Essential-for-a-Healthy-Home-and-Business.webp"
                   alt="Pokhara Pest Control Team"
                   className="w-full h-full object-cover"
                 />
