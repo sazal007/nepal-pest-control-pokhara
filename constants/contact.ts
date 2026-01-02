@@ -1,4 +1,4 @@
-export const nepalpestcontrolAddress = "Basundhra Kathmandu, Nepal";
+export const nepalpestcontrolAddress = "Pokhara, Nepal";
 export const nepalpestcontrolEmail = "sales.obpl@gmail.com";
 
 // Regular phone numbers
@@ -17,4 +17,4 @@ export const nepalpestcontrolPhoneDisplay = [
   ...nepalpestcontrolHotline.map((num) => `${num} (Hotline)`),
 ].join(", ");
 
-export const nepalpestcontrolFullAddress = "Basundhra Kathmandu, Nepal";
+export const nepalpestcontrolFullAddress = "Pokhara, Nepal";

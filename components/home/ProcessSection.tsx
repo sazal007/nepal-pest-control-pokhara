@@ -39,7 +39,7 @@ export const ProcessSection = () => {
         >
           <SectionHeading
             tag="[What We Offer]"
-            title="Accounting & Finance Services for Your Business"
+            title="Professional Pest Control Services in Pokhara"
             italicWord="Business"
             align="center"
             className="mb-4"

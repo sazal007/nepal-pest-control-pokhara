@@ -37,19 +37,19 @@ export const VerticalProcessSection = () => {
       id: "01",
       icon: MessageSquare,
       title: "Assessment & Inspection",
-      desc: "We perform a thorough inspection of your home, office, or commercial space to identify pest infestations and understand your specific needs.",
+      desc: "We perform a thorough inspection of your home, office, or commercial space in Pokhara to identify pest infestations and understand your specific needs.",
     },
     {
       id: "02",
       icon: FileSearch,
       title: "Customized Pest Control Plan",
-      desc: "Based on the inspection, we design a tailored pest management strategy using safe, effective, and environmentally responsible methods.",
+      desc: "Based on the inspection, we design a tailored pest management strategy using safe, effective, and environmentally responsible methods suited for Pokhara's unique climate and environment.",
     },
     {
       id: "03",
       icon: Cog,
       title: "Implementation & Ongoing Monitoring",
-      desc: "Our team executes the plan, provides regular follow-ups, and monitors pest activity to ensure lasting protection and a safe environment.",
+      desc: "Our team executes the plan, provides regular follow-ups, and monitors pest activity throughout Pokhara to ensure lasting protection and a safe environment for your property.",
     },
   ];
 
@@ -65,8 +65,8 @@ export const VerticalProcessSection = () => {
             />
             <p className="text-gray-500 mb-8 max-w-md">
               Follow our simple three-step approach to safeguard your spaces
-              from pests with professional, reliable, and long-lasting
-              solutions.
+              in Pokhara from pests with professional, reliable, and long-lasting
+              solutions tailored to our local environment.
             </p>
           </div>
 

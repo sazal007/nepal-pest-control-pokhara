@@ -10,31 +10,31 @@ const principles = [
     id: "01",
     title: "Innovation Through Technology",
     content:
-      "We leverage modern pest control tools, smart devices, and data analytics to deliver efficient, precise, and proactive solutions for homes and businesses.",
+      "We leverage modern pest control tools, smart devices, and data analytics to deliver efficient, precise, and proactive solutions for homes and businesses across Pokhara. Our advanced techniques are specifically adapted to address Pokhara&apos;s unique climate and pest patterns, ensuring optimal results for our local community.",
   },
   {
     id: "02",
     title: "Partnership & Collaboration",
     content:
-      "We build lasting relationships with our clients, understanding their unique needs and providing tailored pest control strategies that ensure peace of mind.",
+      "We build lasting relationships with Pokhara&apos;s homeowners, hoteliers, restaurateurs, and business owners, understanding their unique needs and providing tailored pest control strategies that ensure peace of mind. Whether you&apos;re running a guesthouse in Lakeside or managing a restaurant in the city center, we&apos;re your trusted partner.",
   },
   {
     id: "03",
     title: "Data-Driven Decisions",
     content:
-      "Every intervention is informed by real-time monitoring and analytics, ensuring that treatments are targeted, effective, and minimize disruption.",
+      "Every intervention in Pokhara is informed by real-time monitoring and analytics, ensuring that treatments are targeted, effective, and minimize disruption to your daily operations. We track pest activity patterns specific to Pokhara&apos;s environment to provide the most effective solutions.",
   },
   {
     id: "04",
     title: "Quality & Safety First",
     content:
-      "Our pest control services prioritize safety, compliance, and reliability. We use proven methods to protect people, property, and the environment.",
+      "Our pest control services prioritize safety, compliance, and reliability for Pokhara&apos;s residents and visitors. We use proven methods that are safe for families, pets, and the beautiful natural environment that makes Pokhara special. All treatments comply with local health and safety regulations.",
   },
   {
     id: "05",
-    title: "Global Reach, Personal Touch",
+    title: "Local Expertise, Personal Touch",
     content:
-      "While serving clients locally and internationally, we tailor every solution to the specific needs of each business or home, ensuring measurable results and satisfaction.",
+      "Born and raised in Pokhara, our team brings deep local knowledge of the area&apos;s pest challenges, seasonal patterns, and building structures. We understand Pokhara&apos;s unique needs—from protecting heritage properties to serving the hospitality industry—and tailor every solution to ensure measurable results and satisfaction for our community.",
   },
 ];
 
@@ -58,9 +58,13 @@ export const PrinciplesSection = () => {
               className="mb-12"
             />
             <p className="text-gray-500 mb-12">
-              At Nepal Pest Control, our principles guide every action we take —
-              combining innovation, expertise, and a client-centric approach to
-              deliver pest control solutions you can trust.
+              At Pokhara Pest Control, our principles guide every action we take
+              — combining innovation, expertise, and a client-centric approach
+              to deliver trusted pest control solutions for homes, hotels,
+              restaurants, and businesses throughout Pokhara. We understand the
+              unique pest challenges faced by Pokhara&apos;s diverse community,
+              from residential areas to the bustling tourism and hospitality
+              sectors.
             </p>
 
             <div className="space-y-4">
@@ -137,7 +141,7 @@ export const PrinciplesSection = () => {
           >
             <img
               src="/images/person-protective-suit-getting-ready-disinfect-room.jpg"
-              alt="Nepal Pest Control Core Principles"
+              alt="Pokhara Pest Control Core Principles"
               className="w-full h-full object-cover"
             />
           </motion.div>

@@ -73,8 +73,8 @@ export const PartnershipSection = () => {
               className="mb-8"
             />
             <p className="text-gray-500 text-sm leading-relaxed mb-8 sm:mb-10 lg:mb-12">
-              At Nepal Pest Control, our partnerships are built around long-term
-              value—not one-off projects. Explore how we show up for you across
+              At Pokhara Pest Control, our partnerships are built around long-term
+              value—not one-off projects. Serving businesses and homes across Pokhara, we show up for you across
               each phase of the relationship.
             </p>
 

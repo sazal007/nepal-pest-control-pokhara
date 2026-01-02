@@ -34,19 +34,23 @@ export const MissionVisionSection = () => {
           >
             <SectionHeading
               tag="[Our Mission]"
-              title="Empowering Businesses With Effective Pest Control"
+              title="Empowering Pokhara With Effective Pest Control"
               italicWord="Effective"
             />
             <p className="text-gray-500 mb-8 leading-relaxed">
               Our mission is to deliver reliable, innovative pest control
-              solutions that safeguard homes and businesses, optimize
-              operations, and ensure long-term growth.
+              solutions that safeguard homes, hotels, restaurants, and
+              businesses across Pokhara. We understand the unique needs of
+              Pokhara&apos;s thriving tourism industry, residential communities,
+              and commercial sectors. Our goal is to optimize operations,
+              protect Pokhara&apos;s reputation as a premier destination, and
+              ensure long-term growth for our local community.
             </p>
             <FeatureList
               items={[
-                "Provide precise, real-time pest control monitoring and insights",
-                "Automate key processes to improve efficiency and reduce costs",
-                "Build lasting partnerships based on trust and proven results",
+                "Provide precise, real-time pest control monitoring tailored to Pokhara&apos;s climate and environment",
+                "Support Pokhara&apos;s hospitality sector with discreet, effective pest management solutions",
+                "Build lasting partnerships with Pokhara&apos;s homeowners and business owners based on trust and proven results",
               ]}
             />
             <Button variant="blue" onClick={() => router.push("/contact")}>
@@ -62,7 +66,7 @@ export const MissionVisionSection = () => {
           >
             <img
               src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80"
-              alt="Nepal Pest Control Mission - Team Collaboration"
+              alt="Pokhara Pest Control Mission - Team Collaboration"
               className="w-full h-full object-cover"
             />
           </motion.div>
@@ -79,7 +83,7 @@ export const MissionVisionSection = () => {
           >
             <img
               src="https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&auto=format&fit=crop&w=1674&q=80"
-              alt="Nepal Pest Control Vision - Global Innovation"
+              alt="Pokhara Pest Control Vision - Local Excellence"
               className="w-full h-full object-cover"
             />
           </motion.div>
@@ -92,19 +96,24 @@ export const MissionVisionSection = () => {
           >
             <SectionHeading
               tag="[Our Vision]"
-              title="Becoming The Leading Partner In Pest Control Excellence"
-              italicWord="Excellence"
+              title="Becoming Pokhara's Leading Pest Control Partner"
+              italicWord="Pokhara's Leading"
             />
             <p className="text-gray-500 mb-8 leading-relaxed">
-              We aim to be the go-to partner for businesses worldwide seeking
-              advanced, efficient, and sustainable pest control solutions that
-              protect assets and create long-term value.
+              We aim to be the go-to partner for homes and businesses throughout
+              Pokhara seeking advanced, efficient, and sustainable pest control
+              solutions. From Lakeside&apos;s bustling tourism district to
+              residential neighborhoods and commercial hubs, we protect assets
+              and create long-term value for Pokhara&apos;s community. Our
+              vision is to maintain Pokhara&apos;s reputation as a clean, safe,
+              and welcoming destination while ensuring every resident and
+              business owner enjoys a pest-free environment.
             </p>
             <FeatureList
               items={[
-                "Lead the adoption of innovative pest control technologies",
-                "Expand global reach while providing tailored, client-focused solutions",
-                "Ensure every business benefits from smart, effective pest management",
+                "Lead the adoption of innovative pest control technologies specifically adapted for Pokhara&apos;s unique environment",
+                "Expand our services across all areas of Pokhara—from Lakeside to the city center—providing tailored, client-focused solutions",
+                "Ensure every home, hotel, restaurant, and business in Pokhara benefits from smart, effective pest management",
               ]}
             />
             <Button variant="blue" onClick={() => router.push("/contact")}>

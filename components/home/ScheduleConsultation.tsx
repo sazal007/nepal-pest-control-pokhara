@@ -38,7 +38,7 @@ export const ScheduleConsultation = () => {
           >
             <img
               src="/images/appointment.png"
-              alt="Pest Control Technician Inspection"
+              alt="Pest Control Technician Inspection in Pokhara"
               className="w-full h-full "
             />
           </motion.div>
@@ -65,7 +65,7 @@ export const ScheduleConsultation = () => {
                 </h3>
 
                 <p className="text-primary-100 text-sm mb-8 leading-relaxed">
-                  Our certified technicians are available for inspections and
+                  Our certified technicians are available throughout Pokhara for inspections and
                   pest control services at a time that works best for you. Safe
                   treatments, professional service, and reliable results.
                 </p>

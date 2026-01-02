@@ -25,7 +25,7 @@ export const ContactLocations = () => {
               className="mb-6"
             />
             <p className="text-gray-500 mb-10 leading-relaxed text-sm">
-              Our office is conveniently located in the heart of theses cities,
+              Our office is conveniently located in the heart of Pokhara,
               providing easy access for clients and partners.
             </p>
 

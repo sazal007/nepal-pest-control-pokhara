@@ -36,9 +36,9 @@ export const AboutSection = () => {
             transition={{ duration: 0.7, ease: "easeOut" }}
           >
             <p className="text-gray-600 text-sm leading-relaxed mb-10">
-              At Nepal Pest Control, we provide safe, effective, and
+              At Pokhara Pest Control, we provide safe, effective, and
               regulation-compliant pest management services for residential,
-              commercial, and industrial spaces.
+              commercial, and industrial spaces throughout Pokhara.
               <br />
               <br />
               Our certified technicians use proven treatment methods to
@@ -65,7 +65,7 @@ export const AboutSection = () => {
             <div className="rounded-2xl overflow-hidden h-72 sm:h-96 md:h-[420px] w-full">
               <img
                 src="/images/home-about.png"
-                alt="Professional Pest Control Technician at Work"
+                alt="Professional Pest Control Technician at Work in Pokhara"
                 className="w-full h-full"
               />
             </div>

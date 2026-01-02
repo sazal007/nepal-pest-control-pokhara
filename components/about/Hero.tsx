@@ -14,7 +14,7 @@ export const Hero = () => {
       >
         <img
           src="/images/PestControlinkathmandu.png"
-          alt="Pest Control Service"
+          alt="Pest Control Service in Pokhara"
           className="w-full h-full object-cover opacity-60"
         />
         {/* Gradient Overlay */}
@@ -36,7 +36,7 @@ export const Hero = () => {
             </span>
           </h1>
           <p className="mt-4 text-md sm:text-lg md:text-xl text-gray-200 max-w-2xl mx-auto">
-            Protecting your home and business with certified treatments and
+            Protecting your home and business in Pokhara with certified treatments and
             expert technicians.
           </p>
         </motion.div>

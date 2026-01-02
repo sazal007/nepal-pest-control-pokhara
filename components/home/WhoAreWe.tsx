@@ -40,9 +40,9 @@ export const WhoAreWe: React.FC<WhoAreWeProps> = ({ onNavigate }) => {
               viewport={{ once: true }}
               transition={{ duration: 0.6, ease: "easeOut" }}
             >
-              Nepal Pest Control delivers safe, effective, and certified pest
+              Pokhara Pest Control delivers safe, effective, and certified pest
               management services for homes, businesses, and industrial
-              environments.
+              environments throughout Pokhara.
             </motion.p>
 
             <motion.p
@@ -52,7 +52,7 @@ export const WhoAreWe: React.FC<WhoAreWeProps> = ({ onNavigate }) => {
               viewport={{ once: true }}
               transition={{ duration: 0.6, ease: "easeOut", delay: 0.1 }}
             >
-              With over 6 years of hands-on experience, our trained technicians
+              With over 6 years of hands-on experience serving Pokhara, our trained technicians
               follow approved treatment protocols to eliminate pests, maintain
               hygiene standards, and ensure compliance with local health and
               safety regulations — without disrupting your daily operations.
@@ -109,7 +109,7 @@ export const WhoAreWe: React.FC<WhoAreWeProps> = ({ onNavigate }) => {
             >
               <img
                 src="/images/home-who-we-are.png"
-                alt="Professional Pest Control Technician"
+                alt="Professional Pest Control Technician in Pokhara"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-blue-900/10" />

@@ -24,8 +24,8 @@ export const BlogSection = () => {
           transition={{ duration: 0.7, ease: "easeOut" }}
         >
           <SectionHeading
-            title="Strategic Insights That Drive Business Success"
-            italicWord="Success"
+            title="Pest Control Insights & Tips for Pokhara"
+            italicWord="Pokhara"
             className="mb-0 max-w-xl"
           />
           <Link href="/blog">

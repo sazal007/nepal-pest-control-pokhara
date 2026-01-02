@@ -62,8 +62,8 @@ export const TeamGridSection = () => {
         >
           <SectionHeading
             tag="[Our Team]"
-            title="Meet the team behind Nepal Pest Control"
-            italicWord="Nepal Pest Control"
+            title="Meet the team serving Pokhara"
+            italicWord="serving Pokhara"
             align="center"
             className="mb-16"
           />

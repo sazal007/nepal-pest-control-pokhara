@@ -18,7 +18,7 @@ export const HomeHero = () => {
       >
         <img
           src="/pest-control.png"
-          alt="Professional Pest Control Services in Nepal"
+          alt="Professional Pest Control Services in Pokhara"
           className="w-full h-full object-cover opacity-30"
         />
       </motion.div>
@@ -65,7 +65,7 @@ export const HomeHero = () => {
             transition={{ duration: 0.8, ease: "easeOut", delay: 0.05 }}
           >
             Professional pest control, sanitation, and compliance services for
-            homes, businesses, and regulated environments across Nepal.
+            homes, businesses, and regulated environments across Pokhara.
           </motion.p>
 
           {/* Supporting Value Text

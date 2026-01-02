@@ -13,19 +13,19 @@ export const AboutCleaning = () => {
                             <div className="flex items-center gap-3">
                                 <div className="w-12 h-[2px] bg-primary-500" />
                                 <span className="text-primary-500 font-semibold tracking-wide text-sm uppercase">
-                                    Best Cleaning Company in Nepal
+                                    Best Cleaning Company in Pokhara
                                 </span>
                             </div>
                             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight">
                                 Professional Cleaning <br />
-                                Services in Nepal
+                                Services in Pokhara
                             </h2>
                         </div>
 
                         <div className="space-y-6 text-gray-500 leading-relaxed text-lg">
                             <p>
                                 Orange Ball Pvt. Ltd. is the leading hub where you get reliable{" "}
-                                <span className="font-bold text-gray-700">cleaning services in Nepal</span> at
+                                <span className="font-bold text-gray-700">cleaning services in Pokhara</span> at
                                 affordable prices. Cleaning a home or office is no challenge.
                                 But you don&apos;t have to worry about anything because we are here
                                 to make life easier. Our cleaning service aims to provide you
@@ -35,7 +35,7 @@ export const AboutCleaning = () => {
                                 Cleaning your space requires diligence, patience and a great
                                 deal of knowledge when it comes to cleaning supplies. Once you
                                 hire our affordable{" "}
-                                <span className="font-bold text-gray-700">professional cleaning services in Nepal</span>
+                                <span className="font-bold text-gray-700">professional cleaning services in Pokhara</span>
                                 , you can leave all the issues on your back seat. Our highly
                                 trained staff has the latest equipment to keep your property
                                 spick and span.
@@ -67,7 +67,7 @@ export const AboutCleaning = () => {
                     <div className="relative w-full h-[410px] md:h-[530px] lg:h-[650px] rounded-xl overflow-hidden">
                         <Image
                             src="/services/cleaning.jpg"
-                            alt="Professional Cleaning Service in Nepal"
+                            alt="Professional Cleaning Service in Pokhara"
                             fill
                             priority
                             className="object-cover"
