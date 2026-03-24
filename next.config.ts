@@ -28,6 +28,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "environet.com.ph",
       },
+      {
+        protocol: "https",
+        hostname: "sgp1.digitaloceanspaces.com",
+      },
     ],
   },
   // ISR is configured per-page using the `revalidate` export
